@@ -13,9 +13,11 @@ h2 {
 }
 img {
     width: 200px;
-    height: 200px;
+    height: 175px;
     position: relative;
-    top: -80px;
+    top: -130px;
+    left: 20px;
+    padding: 0px;
     
 }
 .h5{
@@ -23,7 +25,19 @@ img {
     color: black;
 }
 .header {
-    background-color: grey;
+    border: 20px black;
+    padding: 20px;
+    padding-bottom: 0px;
+    background-color: gray;
+    margin: 20px;
+    margin-bottom: 0px;
+    
+}
+.me {
+    border: 40px black;
+    padding: 20px;
+    background-color:lightgrey;
+
 }
 .line {
     font-style: italic;
