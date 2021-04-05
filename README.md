@@ -8,9 +8,9 @@ This is my first independent project which will be the landing page for my progr
 * GitHub account
 * GitHub Pages
 ## Live link
+https://immagitonga25.github.io/IndependentProject1/
 ## Technologies Used
-HTML
-CSS
+HTML, CSS
 ## Support and contact details
 If you run into any problems or have any questions, you can contact me at immagitonga@gmail.com
 ### License
