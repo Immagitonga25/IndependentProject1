@@ -15,5 +15,17 @@ img {
     width: 200px;
     height: 200px;
     position: relative;
-    top:-100px ;
+    top: -80px;
+    
+}
+.h5{
+    text-align: center;
+    color: black;
+}
+.header {
+    background-color: grey;
+}
+.line {
+    font-style: italic;
+    
 }
