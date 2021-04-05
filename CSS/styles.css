@@ -39,6 +39,7 @@ img {
     background-color:lightgrey;
     margin: 20px;
     margin-top: 0px;
+    margin-bottom: 0px;
 
 }
 .line {
@@ -49,6 +50,13 @@ img {
     text-decoration: underline;
     font-style: normal;
     font-weight: bold;
+}
+.project {
+    border: 40px black;
+    padding: 20px;
+    background-color: lightsteelblue;
+    margin: 20px;
+    margin-top: 0px;
 }
 .columns {
     width: 700px;
