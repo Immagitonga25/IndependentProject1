@@ -8,7 +8,7 @@ This is my first independent project which will be the landing page for my progr
 * GitHub account
 * GitHub Pages
 ## Live link
-https://immagitonga25.github.io/IndependentProject1/
+https://immagitonga25.github.io/Portfolio/
 ## Technologies Used
 HTML, CSS
 ## Support and contact details
