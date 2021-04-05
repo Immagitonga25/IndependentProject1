@@ -1,8 +1,8 @@
 # PORTFOLIO
-#### Fist independent project
+#### First Independent Project
 #### By Immaculate Gitonga
 ## Description of project
-This is my first independent project which will be the landing page for my programming portfolio. It will include an image of something that represents me, an 'About Me' section with information regarding who I am and my interests, and a list of projects i have done so far.
+This is my first independent project which will be the landing page for my programming portfolio. It will include an image of something that represents me, an 'About Me' section with information regarding who I am and my interests, and a list of projects I have done so far.
 ## Setup/Installation Requirements
 * Search engine (Preferably CHROME)
 * GitHub account
