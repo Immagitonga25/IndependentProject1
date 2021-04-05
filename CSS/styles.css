@@ -37,6 +37,8 @@ img {
     border: 40px black;
     padding: 20px;
     background-color:lightgrey;
+    margin: 20px;
+    margin-top: 0px;
 
 }
 .line {
@@ -47,4 +49,8 @@ img {
     text-decoration: underline;
     font-style: normal;
     font-weight: bold;
+}
+.columns {
+    width: 700px;
+
 }
