@@ -40,7 +40,12 @@ img {
     margin: 20px;
     margin-top: 0px;
     margin-bottom: 0px;
+    float: right;
 
+}
+.hobby li {
+    font-style: italic;
+    color: chocolate;
 }
 .line {
     font-style: italic;
@@ -60,8 +65,9 @@ img {
     float: left;
     
 }
+.project a {
+    color: darkgreen;
+}
 .columns {
     width: 700px;
-
-
 }
